@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
-echo 'heroku-pdftk-buildpack'
+echo 'PDFTK v42'
 exit 0
